@@ -27,10 +27,6 @@ pygmentsCodefences       = true
     text = "who is trevor?"
 
 [[params.mainMenu]]
-    link = "/portfolio"
-    text = "portfolio"
-
-[[params.mainMenu]]
     link = "/projects"
     text = "projects"
 
