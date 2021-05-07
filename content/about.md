@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2021-05-06T19:43:16-04:00
-draft: true
+draft: false
 ---
 
 Nice to meet you! I am Trevor Nederlof a geospatial developer who is passionate about equitable access to food and transportation.
