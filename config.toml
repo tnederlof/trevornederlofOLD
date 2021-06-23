@@ -13,7 +13,7 @@ pygmentsCodefences       = true
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
     favicon              = "sam.ico"
     homepage             = "home"                           # What to call the home page link
-    footerText           = "A site about trevor nederlof."
+    footerText           = "A site about Trevor Nederlof."
 
 # Metadata for Open Graph and Twitter
     description          = "Trevor Nederlof personal site."               # Max 160 characters show in search results
@@ -24,12 +24,19 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "about"
-    text = "who is trevor?"
+    text = "about me"
 
 [[params.mainMenu]]
     link = "/projects"
     text = "projects"
 
+[[params.mainMenu]]
+    link = "https://github.com/tnederlof/"
+    text = "github"
+
+[[params.mainMenu]]
+    link = "https://www.linkedin.com/in/trevor-nederlof/"
+    text = "linkedin"
 
 [imaging]
     quality = 75
