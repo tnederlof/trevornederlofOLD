@@ -4,7 +4,7 @@ date: 2021-06-23T10:27:12-04:00
 draft: false
 ---
 
-In my work for Farm 2 Facts, I created a series of thematic and reference maps to aid research into the community around the Oak Creek Farmers Market. Below are links to a series of research maps with some brief analysis. This work prompted further research by our team to help the market further support their local community.
+In my work for Farm 2 Facts, I created a series of thematic and reference maps to aid research into the community around the Oak Creek Farmers Market located South of Milwaukee. Below are links to a series of research maps with some brief analysis. This work prompted further research by our team to help the market further support their local community.
 
 Creating these maps involved sourcing various data sets, including the Census ACS 5-year, OpenStreetMap, and the USDA Food Access Research Atlas. After loading all of the data into a PostgreSQL database using the PostGIS extension, I efficiently queried just the data near the farmers market making working with the data in QGIS fast.
 
