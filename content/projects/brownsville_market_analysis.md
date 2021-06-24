@@ -22,10 +22,9 @@ Many census tracts around the market receive SNAP assistance with some as high a
 
 ![Brownsville Transit Map](/img/brownsville/brownsville_transit.png)
 
-There are no trains or light rail, but there is an extensive bus network, some of which pass close to the market. There are also some green spaces and a nearby river that could be attractive for people who want to linger after their visit to the market.
-
-
-
-About Farm 2 Facts
+There are no trains or light rail, but there is an extensive bus network, some of which pass close to the market. There are also some green spaces and a nearby river that could be attractive for people who want to linger after their visit to the market.  
+  
+  
+About Farm 2 Facts  
 Farm 2 Facts is an organization that provides farmers market managers with a toolkit to help them collect data, inform decisions, and communicate with stakeholders, so they achieve their market goals. Organizations include city- or state-wide farmers market organizations or any other organization that oversees multiple farmers markets.
 

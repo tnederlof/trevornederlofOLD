@@ -23,10 +23,9 @@ Most of the surrounding area receives little to no SNAP payments; however, there
 
 ![Cotati Transit Map](/img/cotati/cotati_transit.png)
 
-There are no trains by the market, and most of the bus routes are going from San Francisco to Santa Rosa, just bypassing the market. However, one bus does come off the highway and run right by the market, which could be a source of customers.
-
-
-
-About Farm 2 Facts
+There are no trains by the market, and most of the bus routes are going from San Francisco to Santa Rosa, just bypassing the market. However, one bus does come off the highway and run right by the market, which could be a source of customers.  
+  
+  
+About Farm 2 Facts  
 Farm 2 Facts is an organization that provides farmers market managers with a toolkit to help them collect data, inform decisions, and communicate with stakeholders, so they achieve their market goals. Organizations include city- or state-wide farmers market organizations or any other organization that oversees multiple farmers markets.
 

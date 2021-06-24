@@ -26,10 +26,9 @@ The areas surrounding the market have low SNAP usage, and it does not increase m
 
 ![Oak Creek Transit Map](/img/oakcreek/oak_creek_transit.png)
 
-A major bike path runs just north of the market, and the market square itself has ample bike parking spots. In addition, several bus routes go close to the market. It is worth understanding if the buses stop by the market, who takes the bus, and are they already customers.
+A major bike path runs just north of the market, and the market square itself has ample bike parking spots. In addition, several bus routes go close to the market. It is worth understanding if the buses stop by the market, who takes the bus, and are they already customers.  
+  
 
-
-
-About Farm 2 Facts
+About Farm 2 Facts  
 Farm 2 Facts is an organization that provides farmers market managers with a toolkit to help them collect data, inform decisions, and communicate with stakeholders, so they achieve their market goals. Organizations include city- or state-wide farmers market organizations or any other organization that oversees multiple farmers markets.
 
