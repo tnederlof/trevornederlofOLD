@@ -24,5 +24,8 @@ Most of the areas around the Waupaca market have less than 40% of the population
 
 No major buses or trains run through Waupaca. Therefore a car is necessary to get to the market. However, a main road/highway does run close to the town, bringing potential customers. There is also a bike path southwest of the market, which could funnel traffic to the market if the connection north is safe and well-advertised.
 
+
+
+About Farm 2 Facts
 Farm 2 Facts is an organization that provides farmers market managers with a toolkit to help them collect data, inform decisions, and communicate with stakeholders, so they achieve their market goals. Organizations include city- or state-wide farmers market organizations or any other organization that oversees multiple farmers markets.
 
