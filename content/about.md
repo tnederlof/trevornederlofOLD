@@ -4,7 +4,7 @@ date: 2021-05-06T19:43:16-04:00
 draft: false
 ---
 
-Nice to meet you! I am an experienced developer and systems thinker who has spent my career collaborating with clients. Over the past year, I have focused on solving problems by leveraging geospatial technology. I am passionate about contributing to open-source tools and believe they are the key to creating a more equitable and sustainable future.
+Nice to meet you! I am a geospatial developer who has spent my career diagnosing client problems and using technology to chart a new path forward. I am passionate about contributing to open-source tools and believe they are crucial to creating a more equitable and sustainable future.
 
 I am particularly interested in the intersection of geospatial analysis, data visualization, and software development. My current development efforts focus on transforming transit networks to reduce the reliance on cars and encourage active travel.
 
