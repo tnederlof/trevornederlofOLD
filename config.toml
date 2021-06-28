@@ -6,7 +6,7 @@ title                    = "Trevor Nederlof"
 theme                    = "sam"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
-# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
+googleAnalytics          = "G-K1E661JDS9"                               # Tracking code, eg. "UA-111111111-1"
 
 [params]
     dateform             = "Mon Jan 02, 2006"
@@ -29,6 +29,10 @@ pygmentsCodefences       = true
 [[params.mainMenu]]
     link = "/projects"
     text = "projects"
+
+[[params.mainMenu]]
+    link = "/blog"
+    text = "blog"
 
 [[params.mainMenu]]
     link = "https://github.com/tnederlof/"
