@@ -31,7 +31,7 @@ googleAnalytics          = "G-K1E661JDS9"                               # Tracki
     text = "projects"
 
 [[params.mainMenu]]
-    link = "/blog"
+    link = "/posts"
     text = "blog"
 
 [[params.mainMenu]]
