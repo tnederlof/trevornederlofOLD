@@ -39,7 +39,7 @@ Our database will be [PostgreSQL](https://www.postgresql.org/) which Phoenix int
 
 We will use the [GTFS Realtime data exchange](https://developers.google.com/transit/gtfs-realtime) to retrieve real-time bus trip data in a [protocol buffer format](https://developers.google.com/protocol-buffers). While GTFS is specific to transit data, protocol buffers (or protobufs for short) have increased in popularity with a wide variety of applications.
 
-To generate interactive maps, we will use [OpenMapTiles](https://openmaptiles.org/) to create [OpenStreetMap](https://www.openstreetmap.org/) based set of vector tiles, which OpenLayers can then display. To allow users to search locations, we will interact with the [OpenCage Geocoding API](https://opencagedata.com/), which has a generous free tier and uses open data to power it.
+To allow users to search locations, we will interact with the [OpenCage Geocoding API](https://opencagedata.com/), which has a generous free tier and uses open data to power it.
 
 Lastly, we will use [PubSub](https://hexdocs.pm/phoenix_pubsub/Phoenix.PubSub.html), a powerful feature built into Phoenix to keep all of the users viewing the application in sync so when one provides feedback, everyone sees it in real-time.  
 
